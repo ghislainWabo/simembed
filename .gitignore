@@ -1,0 +1,21 @@
+# Fichiers volumineux à exclure
+*.zip
+*.tar.gz
+*.csv
+*.bin
+*.pkl
+*.pt
+*.h5
+*.tsv
+*.npy
+*.parquet
+
+# Dossiers d'environnement et cache
+.venv/
+venv/
+env/
+__pycache__/
+
+# Configuration IDE
+.idea/
+.vscode/
